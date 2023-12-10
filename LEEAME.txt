@@ -1,0 +1,3 @@
+1 Adjunto a este repositorio, le comparto el resumen solicitado presentado de forma digital.
+
+2 Los cambios pygame son agregar el menu
