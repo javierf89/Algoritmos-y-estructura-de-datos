@@ -1,3 +1,5 @@
-1 Adjunto a este repositorio, le comparto el resumen solicitado presentado de forma digital.
+1 Nombre: Jostin Javier Cruz Castillo  cuenta:20221900145
 
-2 Los cambios pygame son agregar el menu
+2 Adjunto a este repositorio, le comparto el resumen solicitado presentado de forma digital.
+
+3 Los cambios pygame son agregar el menu y sus opciones
